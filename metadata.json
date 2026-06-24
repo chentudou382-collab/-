@@ -1,0 +1,6 @@
+{
+  "name": "桃心秘境·闲鱼自动化中控台",
+  "description": "专为成人/两性趣玩打造的闲鱼低敏内容智能生成、隐私成交客服与无货源发货SOP中控系统，助力女性悦己市场蓝海掘金。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
